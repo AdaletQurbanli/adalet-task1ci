@@ -1,0 +1,422 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.qutu1{
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-masthead.jpg);
+    width: 100%;
+    height: 660px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      
+}
+
+.child1{
+    text-align: center;  
+    padding-top: 195px; 
+}
+
+.child1 h1,em{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.child1 h1{
+    font-size: 5.2rem;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.child1 em{
+    font-style: italic;
+    font-size: calc(1.1rem + 0.6vw);
+    font-weight: bold;
+}
+
+.child1 a{
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    font-size: large;
+    background-color:#1D809F;
+    padding: 20px;
+    width: 126px;
+    border-radius: 5px;
+}
+
+
+.qutu2{
+    width: 100%;
+    height: 380px;
+}
+
+.child2 h2{
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 20px;
+    font-size: 30px;
+}
+
+.child2 p{
+    text-align: center;
+    font-size: 20px;
+}
+
+.child2 a{
+    color: #1D809F;
+    
+}
+
+#a2{
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    margin-left: 44%;
+    padding: 20px;
+    width: 126px;
+    border-radius: 5px;
+    font-size: medium;
+}
+
+.qutu3{
+    width: 100%;
+    height: 580px;
+    background-color:#1D809F;
+}
+
+#has4{
+    text-align: center;
+    padding-top: 125px;
+    padding-bottom: 10px;
+    color: rgb(226, 179, 60);
+  
+}
+
+.child3 h2{
+    text-align: center;
+    font-size: 45px;
+    color: white;   
+}
+
+.child3 div{
+    display: flex;
+    display: inline-block;
+    margin-top: 60px;
+    margin-left: 174px;
+    background-color: white;
+    width: 110px;
+    height: 110px;
+    border-radius: 50%;
+}
+
+.icon-screen-smartphone{
+    
+    color: #1D809F;
+    height: 7rem;
+    width: 7rem;
+    display: block;
+    line-height: 7.5rem;
+    font-size: 2.25rem;
+    padding: 36px; 
+}
+
+.icon-pencil{
+    color: #1D809F;
+    height: 7rem;
+    width: 7rem;
+    display: block;
+    line-height: 7.5rem;
+    font-size: 2.25rem;
+    padding: 36px; 
+}
+
+.icon-like{
+    color: #1D809F;
+    height: 7rem;
+    width: 7rem;
+    display: block;
+    line-height: 7.5rem;
+    font-size: 2.25rem;
+    padding: 36px; 
+}
+
+.icon-mustache{
+    color: #1D809F;
+    height: 7rem;
+    width: 7rem;
+    display: block;
+    line-height: 7.5rem;
+    font-size: 2.25rem;
+    padding: 36px; 
+}
+
+.h{
+    display: inline-block;
+    font-size: 25px;
+    color: white;
+    margin-left: 171px;
+}
+
+.paraqraf{
+    display: inline-block;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.801);
+    width: 255px;
+}
+
+#p1{
+    padding-left: 100px;
+}
+
+#p2{
+    padding-left: 42px;
+}
+
+#p3{
+    padding-left: 34px;
+}
+#p4{
+    padding-left: 17px;
+}
+
+.qutu4{
+    padding: 15rem 0;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-callout.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 220px;
+}
+
+.child4{
+    padding-left: 420px;
+    text-align: center ;
+    font-size: 2.5rem;
+    font-weight: 700;
+    display: block;
+    max-width: 30rem;
+}
+
+.child4 a{
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    padding: 25px;
+    width: 140px;
+    border-radius: 5px;
+    background-color: #1D809F;
+}
+
+#has42{
+    text-align: center;
+    padding-top: 105px;
+    padding-bottom: 10px;
+    color: rgb(226, 179, 60);
+}
+.qutu5{
+    width: 100%;
+    height: 1050px;
+
+}
+
+.child5 h2{
+    text-align: center;
+    font-size: 40px;
+    
+}
+
+.child5 img{
+    display: flex;
+    height: 350px;
+    width: 500px;
+}
+
+.child5 div{
+    float: left;
+}
+
+
+.i1{
+    margin-left: 160px;
+    
+}
+.i3{
+    margin-left: 160px;
+}
+
+.pa1{
+    position: absolute;
+    bottom: 97px;
+    left: 230px;
+    max-width: 310px;
+    color: white;
+}
+
+.i1:hover{
+    transition: 0.2s;
+    transform: scale(0.9, 0.9);
+    opacity: 0.5;
+    
+}
+.i2:hover{
+    transition: 0.2s;
+    transform: scale(0.9, 0.9);
+    opacity: 0.5;
+}
+.i3:hover{
+    transition: 0.2s;
+    transform: scale(0.9, 0.9);
+    opacity: 0.5;
+}
+.i4:hover{
+    transition: 0.2s;
+    transform: scale(0.9, 0.9);
+    opacity: 0.5;
+}
+
+.d1{
+    position: relative;
+}
+.hass2{
+    position: absolute;
+    bottom: 133px;
+    left: 230px;
+    font-size: 12px !important;
+    margin-bottom: 10px;
+    color: white;    
+}
+
+.pa2{
+    position: absolute;
+    bottom: 97px;
+    left: 100px;
+    max-width: 310px;
+    color: white;
+}
+.hass21{
+    position: absolute;
+    bottom: 133px;
+    left: 100px;
+    font-size: 12px !important;
+    margin-bottom: 10px;
+    color: white;   
+}
+
+.pa3{
+    position: absolute;
+    bottom: 87px;
+    left: 230px;
+    max-width: 340px;
+    color: white;
+    font-size: 17px;
+    
+}
+.hass22{
+    position: absolute;
+    bottom: 138px;
+    left: 230px;
+    font-size: 13px !important;  
+    color: white;   
+}
+
+.pa4{
+    position: absolute;
+    bottom: 87px;
+    left: 85px;
+    max-width: 370px;
+    color: white;
+    font-size: 17px;
+    
+}
+.hass23{
+    position: absolute;
+    bottom: 138px;
+    left: 85px;
+    font-size: 13px !important;  
+    color: white;   
+}
+
+
+
+
+.qutu6{
+    background-color: #1D809F;
+    width: 100%;
+    height: 330px;  
+}
+
+.qutu6 h2{
+    text-align: center;
+    padding-top: 120px;
+    color: white;
+    font-size: 30px;
+}
+
+.child6 a{
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.but1{
+    color: black;
+    background-color: white;
+    padding: 20px ;
+    margin-left: 540px;
+    margin-right: 20px;
+    margin-top: 20px;
+    width: 80px;
+    border-radius: 5px;
+}
+
+.but2{
+    color: white;
+    background-color: black;
+    padding: 20px ; 
+    width: 100px;
+    border-radius: 5px;
+}
+
+.child7 iframe{
+    width: 100%;
+    height: 500px;
+}
+.qutu8{
+    width: 100%;
+    height: 240px;
+}
+
+.qutu8 a{
+    text-decoration: none;
+    display: inline-block;
+    background-color: #1D809F;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin-top: 70px;
+    margin-left: 8px;
+    text-align: center;
+}
+.end i{
+    display: inline-block;
+    font-size: 25px;
+    color: white;
+    padding-top: 20px;
+}
+
+#e1{
+    margin-left: 41%;
+}
+
+.child8 div{
+    margin-left: 42%;
+    margin-top: 40px;
+    color: gray;
+
+}
